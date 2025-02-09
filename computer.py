@@ -1,5 +1,3 @@
-### NOTE: I rewrote the main.py file to test computer.py and oo_resale_shop.py based on a the OOP approach ###
-
 class Computer:
 
     # What attributes will it need?
