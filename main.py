@@ -1,4 +1,4 @@
-### NOTE: I rewrote the main.py file to test computer.py and oo_resale_shop.py based on a the OOP approach ###
+### NOTE: I rewrote the main.py file to test computer.py and oo_resale_shop.py based on the OOP approach ###
 
 # Import the classes we wrote in Computer.py and oo_resale_shop.py
 from computer import Computer
